@@ -19,7 +19,7 @@ Jika kurang jelas bisa cek di resource aslinya di https://www.fiverr.com/
 
 # pengumpulan
 ```
-- Buatlah repository dengan nama "fe-nama-buatusaha' (public)
+- Buatlah repository dengan nama "fe-nama-buatusaha" (public)
 - Kirim link repository melalui email ke buatusahaid@gmail.com
 - Deadline tanggal 8 Januari jam 13.00 WIB
 - Jika ada pertanyakan bisa tanyakan melalui email diatas

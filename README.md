@@ -22,6 +22,6 @@ Jika kurang jelas bisa cek di resource aslinya di https://www.fiverr.com/
 ```
 - Buatlah repository dengan nama "fe-nama-buatusaha" (public)
 - Kirim link repository melalui email ke buatusahaid@gmail.com
-- Deadline tanggal 8 Januari jam 13.00 WIB
+- Deadline tanggal 9 Januari jam 13.00 WIB
 - Jika ada pertanyakan bisa tanyakan melalui email diatas
 ```

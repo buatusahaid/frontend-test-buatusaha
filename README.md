@@ -15,11 +15,12 @@ Jika kurang jelas bisa cek di resource aslinya di https://www.fiverr.com/
 # ketentuan
 1. Tidak diperbolehkan untuk menggunakan library selain tailwindcss dan React
 2. Disarankan menggunakan css module jika menggunakan React
-3. API bisa di copy melalui branch api di repository ini
+3. Disarankan menggunakan TypeScript
+4. API bisa di copy melalui ```branch api``` di repository ini
 
 # pengumpulan
 ```
-- Buatlah repository dengan nama "fe-nama-buatusaha' (public)
+- Buatlah repository dengan nama "fe-nama-buatusaha" (public)
 - Kirim link repository melalui email ke buatusahaid@gmail.com
 - Deadline tanggal 8 Januari jam 13.00 WIB
 - Jika ada pertanyakan bisa tanyakan melalui email diatas

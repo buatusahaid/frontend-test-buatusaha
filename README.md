@@ -1,5 +1,5 @@
-# frontend-test-buatusaha
-Repository for Frontend Test at Buat Usaha Indonesia
+# frontend-test-oxtofi
+Repository for Frontend Test at Oxtofi Indonesia
 
 # slicing
 Buatlah Mega Menu dengan hover, seperti contoh berikut:
@@ -13,15 +13,15 @@ Setelah di hover
 Jika kurang jelas bisa cek di resource aslinya di https://www.fiverr.com/
 
 # ketentuan
-1. Tidak diperbolehkan untuk menggunakan library selain tailwindcss dan React
+1. Jika menggunakan library, list library bisa di masukkan dalam README
 2. Disarankan menggunakan css module jika menggunakan React
 3. Disarankan menggunakan TypeScript
 4. API bisa di copy melalui ```branch api``` di repository ini
 
 # pengumpulan
 ```
-- Buatlah repository dengan nama "fe-nama-buatusaha" (public)
-- Kirim link repository melalui email ke buatusahaid@gmail.com
-- Deadline tanggal 9 Januari jam 13.00 WIB
-- Jika ada pertanyakan bisa tanyakan melalui email diatas
+- Buatlah repository dengan nama "fe-nama-oxtofi" (public)
+- Kirim link repository melalui whatsapp 087714456414
+- Deadline tanggal 18 Februari 2024 jam 11.00 PM WIB
+- Jika ada pertanyakan bisa tanyakan melalui nomor diatas
 ```
